@@ -54,7 +54,3 @@ Uncovering a cell holding the number 0 (i.e. no adjacent mined cells) uncovers a
 ### Usage
 
 Launch and follow the prompted instructions
-
-## Licence
-
-Licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
