@@ -24,7 +24,7 @@ The game ends when there is no more non-mined cell to uncover or the player unco
 
 ### Example
 
-   ##  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 ##<br />
+`   ##  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 ##<br />
 1  ##  -  -  1  0  0  0  1  1  1  0  0  0  0  0  0  0  0  0  0  0 ##<br />
 2  ##  1  1  1  0  0  0  1  -  2  1  0  0  0  0  0  0  0  0  0  0 ##<br />
 3  ##  0  0  0  0  0  0  1  2  -  1  0  0  0  0  0  0  0  0  0  0 ##<br />
@@ -50,7 +50,7 @@ The game ends when there is no more non-mined cell to uncover or the player unco
 23 ##  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 ##<br />
 24 ##  0  0  0  0  0  0  0  0  0  0  1  1  1  0  0  0  0  0  1  1 ##<br />
 25 ##  0  0  0  0  0  0  0  0  0  0  1  -  1  0  0  0  0  0  1  - ##<br />
-   ##  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 ##<br />
+   ##  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 ##<br />`
 
 ### Usage
 
