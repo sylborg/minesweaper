@@ -1,4 +1,4 @@
-# eveCharacter jQuery Popover
+# MinesWeeper prompted based
 
 This is a command line prompted minesweeper game (the famous windows minus flag) done in java.
 Feel free to improve this basic version
